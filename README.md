@@ -30,11 +30,7 @@ Landing page de turismo con sistema de reservas completo. Next.js + Framer Motio
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garrottt&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garrottt&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Garrottt)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Garrottt&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Contacto
