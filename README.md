@@ -18,13 +18,13 @@ Ingeniero en Informática titulado, apasionado por construir productos digitales
 ### 🏥 Fono Web App — [Frontend](https://github.com/Garrottt/fono-app-client) · [Backend](https://github.com/Garrottt/fono-app)
 Plataforma clínica full stack para gestión fonoaudiológica. React + TypeScript + Node.js + PostgreSQL. Autenticación JWT, sistema de roles, agenda de citas y portal de pacientes. Desplegada en producción con CI/CD.
 
-### 🤖 ChatBot SPA — [CRM-SPA](https://github.com/Garrottt/crm_chatbo_spa) · [CHATBOT-SPA](https://github.com/Garrottt/ChatBot_Spa)
+### 🤖 ChatBot SPA — [Crm-spa](https://github.com/Garrottt/crm_chatbo_spa) · [Chatbot-spa](https://github.com/Garrottt/ChatBot_Spa)
 Sistema de gestión de reservas vía WhatsApp para spas. Integra WhatsApp Business API, OpenAI (GPT), MercadoPago y Google Calendar. Máquina de estados, campañas masivas y motor de reservas automático.
 
 ### 📊 [Asesorías Huasco](https://github.com/Garrottt/asesorias-huascoWebApp)
 Plataforma de asesoría previsional full stack con Next.js 16, Supabase Auth y simulador de ahorro AFP con proyecciones personalizadas.
 
-### 🏜️ [Cabañas Desierto](https://github.com/Garrottt/Cabanas_Desierto_Atacama)
+### 🏜️ [Cabañas Desierto Atacama](https://github.com/Garrottt/Cabanas_Desierto_Atacama)
 Landing page de turismo con sistema de reservas completo. Next.js + Framer Motion + Supabase + WhatsApp API + Nodemailer.
 
 ---
