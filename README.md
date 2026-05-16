@@ -1,6 +1,6 @@
 # Hola, soy Gonzalo Garrote 👋
 
-### Desarrollador Full Stack · Viña del Mar, Chile 🇨🇱
+### Desarrollador Full Stack · Chile 🇨🇱
 
 Ingeniero en Informática titulado, apasionado por construir productos digitales completos desde la arquitectura hasta el despliegue en producción. Trabajo principalmente en el ecosistema JavaScript/TypeScript con React y Node.js.
 
