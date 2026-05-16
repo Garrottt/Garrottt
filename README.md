@@ -15,7 +15,7 @@ Ingeniero en Informática titulado, apasionado por construir productos digitales
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## 🚀 Proyectos destacados
-### 🏥 [Fono Web App](https://github.com/Garrottt/fono-web-app)
+### 🏥 Fono Web App — [Frontend](https://github.com/Garrottt/NOMBRE_CLIENT) · [Backend](https://github.com/Garrottt/NOMBRE_SERVER)
 Plataforma clínica full stack para gestión fonoaudiológica. React + TypeScript + Node.js + PostgreSQL. Autenticación JWT, sistema de roles, agenda de citas y portal de pacientes. Desplegada en producción con CI/CD.
 
 ### 🤖 [ChatBot SPA](https://github.com/Garrottt/ChatBot_Spa)
